@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.routers import reports
+from src.routers import reports
 
 app = FastAPI()
 
